@@ -1,4 +1,4 @@
-<img width="1396" height="808" alt="04-two-tier-screening-vision" src="https://github.com/user-attachments/assets/930e0283-d6d5-4fbd-967c-c87e9f65207a" /># Genetic Risk Stratification for Neurodegenerative Disorders
+# Genetic Risk Stratification for Neurodegenerative Disorders
 
 Early identification of Alzheimer's and Parkinson's disease using genomic and RNA-based signatures together with clinical data. The project is a joint effort between Solaiera (STEOAIS Technologies Private Limited) and VNRVJIET, prepared in the context of a BIRAC Bio-AI proposal under India's BioE3 policy.
 
